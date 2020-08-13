@@ -1,0 +1,107 @@
+
+#nome{
+color: rgb(114, 115, 117);
+margin-left: 25px;
+font-size: 10px;
+
+}
+
+#cavalcanti{
+    color: rgb(80, 77, 77);
+}
+
+#icons{
+    background-color: rgb(114, 115, 117);
+   width: 80px ;
+   border-radius: 70% ;
+   color:#fac4be ;
+   text-align: center;
+   margin-left: 45px;  
+   
+     
+    
+
+}
+
+
+#background-rose{
+    background-color: #fac4be;
+    width: 25%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 200px;
+   
+}
+
+#cargo{
+    color: lightslategray;
+    margin-left: 5px;  
+    
+}
+
+.background-conteudo{
+    text-align: left;
+    margin-left: 30px; 
+    font-size: 12px;
+   
+}
+
+
+.background-menu{
+   
+background-color: rgb(80, 77, 77);
+color: white;
+width: 180px;
+height: 30px;
+text-align: center;
+position: relative;
+left: 20px;
+bottom: 10px;
+
+}
+
+.linha{
+    background-color: lightslategray;
+    padding: 1px;
+    width: 95%;
+    margin-left: 50px;  
+    
+}
+
+#user-icon{
+    background-color: #fac4be;;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+#conteudoright{
+   
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 68%;
+    margin-right: 40px;
+    margin-top: 20px;
+    text-align: left;
+    text-align: justify;
+    font-size: 12px;
+}
+
+#footer{
+    padding: 5px;
+    margin-top: 200px ;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;  
+    background-color:rgb(80, 77, 77);
+    border-top:solid 0.5px  white;   
+}
+
+#nameFooter{
+    text-align: center;
+    color: white;
+}
+
